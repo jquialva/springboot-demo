@@ -1,1 +1,1 @@
-[paste the Jenkinsfile content from above]
+[paste the simpler Jenkinsfile from above]
